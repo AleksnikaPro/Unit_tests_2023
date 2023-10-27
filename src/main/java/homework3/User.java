@@ -1,4 +1,4 @@
-package hometask3;
+package homework3;
 
 public class User {
 

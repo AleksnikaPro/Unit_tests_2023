@@ -1,4 +1,4 @@
-package hometask2;
+package homework2;
 
 public class Motorcycle extends Vehicle {
     private String company;
